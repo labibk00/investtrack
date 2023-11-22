@@ -1,24 +1,19 @@
 # Project-Securities---All-in-one-Investment-Tracker
 A show-case repo for my all-in-one investment tracking project which I am currently building.
 
-#About:
+# About:
 The app aims to provide all-in-one investment tracking capabilities including securities across the world, cryptocurrencies, cash accounts, and even property. As of writing this, US-region stock market, funds, etc has been fully added and cryptocurrency support is nearly complete, after which I intend to launch the application on Play Store and Appstore.
 The project was initially started as a native Android app primarily using Jetpack Compose, but I shifted to Flutter for seamless cross-platform support. As the app does not use any platform-specific functionalities, separate code-bases for specific functionalities are not needed making Flutter a solid choice and works really well from testing.
 
 
-#Screenshots:
-![Screenshot_20231122_124829](https://github.com/labibk00/Project-Securities---All-in-one-Investment-Tracker/assets/73773981/39221d50-6943-4967-9a19-d079b8b1adf9)
-![Screenshot_20231122_124720](https://github.com/labibk00/Project-Securities---All-in-one-Investment-Tracker/assets/73773981/6399c083-45b9-480f-a5d9-315b1e965f73)
-![Screenshot_20231122_124726](https://github.com/labibk00/Project-Securities---All-in-one-Investment-Tracker/assets/73773981/d45b2ae7-b405-4c72-ab04-83fe1db5652a)
-![Screenshot_20231122_124734](https://github.com/labibk00/Project-Securities---All-in-one-Investment-Tracker/assets/73773981/0009ad44-3eb5-44fa-882f-6ca829a5132e)
-![Screenshot_20231122_124737](https://github.com/labibk00/Project-Securities---All-in-one-Investment-Tracker/assets/73773981/136f9c56-10e5-4278-a616-6a708ff139ed)
-![Screenshot_20231122_124740](https://github.com/labibk00/Project-Securities---All-in-one-Investment-Tracker/assets/73773981/d2c04c66-2d5d-45d4-9c39-67f16afc8bdf)
-![Screenshot_20231122_124744](https://github.com/labibk00/Project-Securities---All-in-one-Investment-Tracker/assets/73773981/a9517112-3968-43dc-92f3-b8a06b4e7eaa)
-![Screenshot_20231122_124804](https://github.com/labibk00/Project-Securities---All-in-one-Investment-Tracker/assets/73773981/43ea0576-4484-4510-bfad-6b6d027d5580)
-![Screenshot_20231122_124749](https://github.com/labibk00/Project-Securities---All-in-one-Investment-Tracker/assets/73773981/cf7e5eb5-fe52-4aa5-9722-0b66f903fcc8)
-![Screenshot_20231122_124811](https://github.com/labibk00/Project-Securities---All-in-one-Investment-Tracker/assets/73773981/022c3581-d4e4-432c-b093-800bd66a6f46)
-![Screenshot_20231122_124825](https://github.com/labibk00/Project-Securities---All-in-one-Investment-Tracker/assets/73773981/bdb19ad2-6ecb-49e9-b7e5-13d85f2b1645)
-![Screenshot_20231122_124829](https://github.com/labibk00/Project-Securities---All-in-one-Investment-Tracker/assets/73773981/08a96ce0-00cb-4688-ade0-17fc826017a6)
+# Screenshots:
+
+<img src="https://user-images.githubusercontent.com/73773981/284794914-4fea56c2-7f30-47ee-a1ab-e2d6b1fc9d2e.png" width="300"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/73773981/284795058-f2ff03d8-d03a-45c9-a2d0-40f6f70625f5.jpg" width="300"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/73773981/284795070-93bffc48-6517-4f11-96e9-2fb56194ffbd.jpg" width="300">
+
+<img src="https://user-images.githubusercontent.com/73773981/284795348-ee5d9b55-9a05-43ea-a036-c2180904cd3d.jpg" width="300"> <img src="https://user-images.githubusercontent.com/73773981/284795371-cf8e88e8-99fe-4843-8501-fee8ff1a1145.jpg" width="300"> <img src="https://user-images.githubusercontent.com/73773981/284795384-f246d255-8f6d-440f-997b-ec3c2feff440.jpg" width="300">
+
+ <img src="https://user-images.githubusercontent.com/73773981/284795385-284e2ad5-bf31-4917-b959-d0f37d7715f9.jpg" width="300"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/73773981/284795635-0654dd6c-cd4a-48b5-9961-6cc7b5ff2abc.jpg" width="300"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/73773981/284795653-5e306934-a08a-44f1-bc6f-41f6c0489446.jpg" width="300">
 
 Qn: Source Code? 
+
 Ans: This project is closed-source :)

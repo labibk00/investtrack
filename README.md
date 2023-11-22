@@ -3,6 +3,7 @@ A show-case repo for my all-in-one investment tracking project which I am curren
 
 # About:
 The app aims to provide all-in-one investment tracking capabilities including securities across the world, cryptocurrencies, cash accounts, and even property. As of writing this, US-region stock market, funds, etc has been fully added and cryptocurrency support is nearly complete, after which I intend to launch the application on Play Store and Appstore.
+
 The project was initially started as a native Android app primarily using Jetpack Compose, but I shifted to Flutter for seamless cross-platform support. As the app does not use any platform-specific functionalities, separate code-bases for specific functionalities are not needed making Flutter a solid choice and works really well from testing.
 
 

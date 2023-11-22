@@ -1,4 +1,4 @@
-![Screenshot_20231122_124829](https://github.com/labibk00/Project-Securities---All-in-one-Investment-Tracker/assets/73773981/39221d50-6943-4967-9a19-d079b8b1adf9)# Project-Securities---All-in-one-Investment-Tracker
+# Project-Securities---All-in-one-Investment-Tracker
 A show-case repo for my all-in-one investment tracking project which I am currently building.
 
 #About:
@@ -7,6 +7,7 @@ The project was initially started as a native Android app primarily using Jetpac
 
 
 #Screenshots:
+![Screenshot_20231122_124829](https://github.com/labibk00/Project-Securities---All-in-one-Investment-Tracker/assets/73773981/39221d50-6943-4967-9a19-d079b8b1adf9)
 ![Screenshot_20231122_124720](https://github.com/labibk00/Project-Securities---All-in-one-Investment-Tracker/assets/73773981/6399c083-45b9-480f-a5d9-315b1e965f73)
 ![Screenshot_20231122_124726](https://github.com/labibk00/Project-Securities---All-in-one-Investment-Tracker/assets/73773981/d45b2ae7-b405-4c72-ab04-83fe1db5652a)
 ![Screenshot_20231122_124734](https://github.com/labibk00/Project-Securities---All-in-one-Investment-Tracker/assets/73773981/0009ad44-3eb5-44fa-882f-6ca829a5132e)

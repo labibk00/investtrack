@@ -1,6 +1,8 @@
 # Project-Securities---All-in-one-Investment-Tracker
 A show-case repo for my all-in-one investment tracking project which I am currently building.
 
+Update 07/02/2024 - app submitted to Google for production review. Once it's reviewed this link will go live: https://play.google.com/store/apps/details?id=com.gmail.projectsecurities9.investtracker&hl=en-US&ah=O4hysP8CiYsX5y65eq1B2dWkDyM
+
 # About:
 The app aims to provide all-in-one investment tracking capabilities including securities across the world, cryptocurrencies, cash accounts, and even property. As of writing this, US-region stock market, funds, etc has been fully added and cryptocurrency support is nearly complete, after which I intend to launch the application on Play Store and Appstore.
 
